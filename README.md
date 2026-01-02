@@ -24,7 +24,7 @@
     <p>Gadgets que sí funcionan 🔥</p>
 
     <a href="top.html">🔥 Gadget TOP del día</a>
-    <a href="ofertas.html" class="secondary">⚡ Ofertas</a>
+    <a href="ofertas.md" class="secondary">⚡ Ofertas</a>
     <a href="casa.html" class="secondary">🏠 Casa</a>
     <a href="coche.html" class="secondary">🚗 Coche</a>
   </div>
