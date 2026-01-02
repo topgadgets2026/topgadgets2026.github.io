@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
@@ -62,11 +61,9 @@
 </head>
 <body>
   <div class="container">
-    <!-- Sustituye src por tu logo -->
     <img class="logo" src="1.png" alt="TopGadGets2026" />
 
     <h1>TopGadGets2026</h1>
-    <p>Gadgets que sí funcionan 🔥<br>Ahorra tiempo y dinero</p>
 
     <!-- LINKS AFILIADOS -->
     <a class="link" href="#" target="_blank">🔥 Gadget TOP del día</a>
