@@ -63,7 +63,7 @@
 <body>
   <div class="container">
     <!-- Sustituye src por tu logo -->
-    <img class="logo" src="logo.png" alt="TopGadGets2026" />
+    <img class="logo" src="1.png" alt="TopGadGets2026" />
 
     <h1>TopGadGets2026</h1>
     <p>Gadgets que sí funcionan 🔥<br>Ahorra tiempo y dinero</p>
